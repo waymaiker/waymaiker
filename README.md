@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Watson, a Software Engineer, welcome on my GitHub profile! 
+I'm Watson, a Software Engineer, welcome to my GitHub profile! 
 
 ## 👨🏻‍💻 Main interests
 
