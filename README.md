@@ -5,7 +5,9 @@ I'm Watson, a Software Engineer, welcome to my GitHub profile!
 ## 👨🏻‍💻 Main interests
 
 - Blockchain technologies: Ethereum & Lukso
-- Software development: Proficient in React, Dart, Node, JS, Solidity 
+- Software development, proficient in:
+  * Front-End : React, Dart, JS
+  * Back-End : NodeJs, RoR, Solidity 
 
 ## ⚡ Github Stats
 
