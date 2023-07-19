@@ -10,10 +10,6 @@ I'm Watson, a Software Engineer, welcome to my GitHub profile!
   * Frameworks: NextJs, Flutter
   * DB: PostgresSQL, NoSQL 
 
-## ⚡ Github Stats
-
-<img align="left" alt="Watson Github Stats" src="https://github-readme-stats.vercel.app/api?username=waymaiker&theme=blue-green&show_icons=true&hide_border=true" />
-
 
 <!--
 **waymaiker/waymaiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
