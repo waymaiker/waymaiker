@@ -7,9 +7,10 @@ I'm Watson, a Software Engineer, welcome to my GitHub profile!
 - Blockchain technologies: Ethereum & Lukso
 - Software development:
   * Librairies and Programmation Languages: JS (ReactJs, NodeJs), Ruby (RoR), Dart, Solidity
-  * Frameworks: NextJs, Flutter, React-Native
+  * Frameworks: NestJs, NextJs, Flutter, React-Native
   * DB: PostgresSQL, NoSQL (Firebase, MongoDB)
-
+  * ORM: Sequelize, TypeORM
+    
 <!--
 **waymaiker/waymaiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
