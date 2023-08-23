@@ -9,7 +9,7 @@ I'm Watson, a Software Engineer, welcome to my GitHub profile!
   * Librairies and Programmation Languages: JS (ReactJs, NodeJs), Ruby (RoR), Dart, Solidity
   * Frameworks: NestJs, NextJs, Flutter, React-Native
   * DB: PostgresSQL, NoSQL (Firebase, MongoDB)
-  * ORM: Sequelize, TypeORM
+  * ORM: Prisma, TypeORM, 
     
 <!--
 **waymaiker/waymaiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
