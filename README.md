@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello everyone 👋
 
 I'm Watson, a Software Engineer, welcome to my GitHub profile! 
 
