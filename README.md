@@ -4,12 +4,11 @@ I'm Watson, a Software Engineer, welcome to my GitHub profile!
 
 ## 👨🏻‍💻 Main interests
 
-- Blockchain technologies: Ethereum & Lukso
 - Software development:
   * Librairies and Programmation Languages: JS (ReactJs, NodeJs), Ruby (RoR), Dart, Solidity
   * Frameworks: NestJs, NextJs, Flutter, React-Native
   * DB: PostgresSQL, NoSQL (Firebase, MongoDB)
-  * ORM: Prisma, TypeORM, 
+  * ORM: Prisma, TypeORM, Sequelize
     
 <!--
 **waymaiker/waymaiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
