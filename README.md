@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-I'm Watson, a Software Engineer, welcome to my GitHub profile! 
+I'm Watson, a Full Stack Developper, welcome to my GitHub profile! 
 
 ## 👨🏻‍💻 Main interests
 
