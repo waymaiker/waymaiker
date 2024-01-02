@@ -11,8 +11,8 @@ I'm Watson, a Full Stack Developper, welcome to my GitHub profile!
   * ORM: Prisma, TypeORM, Sequelize
 
 ## Current Project
-I'm working on a learning language app. 
-Last Year, I traveled and started to learn a new langugage. Back home, I tried to find an easy way to learn and practice.
+I'm working on a learning language app.  
+Last year, I traveled and started to learn a new langugage. Back home, I tried to find an easy way to learn and practice.
 I started developping an App, so that I could continue practicing what I already knew, while waiting to start a more formal course.
 
 I finally found a great course which I started in September.
